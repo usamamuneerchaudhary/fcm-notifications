@@ -8,3 +8,5 @@
 3. Rename `.env.example` to `.env`
 4. Add `FCM_LEGACY_KEY` to your `.env` file
 
+## Tutorial
+https://thewebtier.com/laravel/implement-fcm-notification-with-laravel/
