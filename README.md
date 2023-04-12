@@ -10,4 +10,4 @@
 5. Run `php artisan key:generate`
 
 ## Tutorial
-https://thewebtier.com/laravel/implement-fcm-notification-with-laravel/
+[FCM Notifications with Laravel](https://thewebtier.com/laravel/implement-fcm-notification-with-laravel/)
